@@ -1,4 +1,8 @@
 # studentRecordscodeiginter
+
+PERFORM CRUD OPERATION ON STUDENT RECORDs
+create delete update 
+read
 student Records database using codeiginter
 
 Add folder into xammp/htdocs
